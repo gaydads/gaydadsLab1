@@ -13,6 +13,7 @@ import java.net.*;
 
 public class ReadingWritingData {
 
+	//Change
 	protected String filename;
 	protected int int1, int2;
 	protected float float1, float2;
